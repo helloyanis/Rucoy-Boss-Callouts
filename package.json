@@ -1,0 +1,24 @@
+{
+  "name": "Bosscallouts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^14.0.0-dev.1654776344-94bdcac",
+    "express": "^4.18.1",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "node": "^16.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
